@@ -1,0 +1,23 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g opacity="0.5" filter="url(#filter0_f_33_542)">
+<rect x="6" y="6" width="9" height="9" rx="2" stroke="#FF5C00" stroke-width="2"/>
+<rect x="6" y="33" width="9" height="9" rx="2" stroke="#FF5C00" stroke-width="2"/>
+<rect x="33" y="6" width="9" height="9" rx="2" stroke="#FF5C00" stroke-width="2"/>
+<rect x="33" y="33" width="9" height="9" rx="2" stroke="#FF5C00" stroke-width="2"/>
+<path d="M10.5 15V33M37.5 15V33" stroke="#FF5C00" stroke-width="2" stroke-linecap="round"/>
+<path d="M33 10.5L15 10.5M33 37.5L15 37.5" stroke="#FF5C00" stroke-width="2" stroke-linecap="round"/>
+</g>
+<rect x="6" y="6" width="9" height="9" rx="2" stroke="#FF5C00" stroke-width="2"/>
+<rect x="6" y="33" width="9" height="9" rx="2" stroke="#FF5C00" stroke-width="2"/>
+<rect x="33" y="6" width="9" height="9" rx="2" stroke="#FF5C00" stroke-width="2"/>
+<rect x="33" y="33" width="9" height="9" rx="2" stroke="#FF5C00" stroke-width="2"/>
+<path d="M10.5 15V33M37.5 15V33" stroke="#FF5C00" stroke-width="2" stroke-linecap="round"/>
+<path d="M33 10.5L15 10.5M33 37.5L15 37.5" stroke="#FF5C00" stroke-width="2" stroke-linecap="round"/>
+<defs>
+<filter id="filter0_f_33_542" x="1" y="1" width="46" height="46" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="2" result="effect1_foregroundBlur_33_542"/>
+</filter>
+</defs>
+</svg>

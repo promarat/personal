@@ -1,0 +1,20 @@
+.common-button {
+    background: radial-gradient(48.15% 162.25% at 54.5% 100%, #FF5C00 0%, #FFB800 100%);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 12px 24px;
+    gap: 8px;
+    height: 50px;
+    border: none;
+    outline: none;
+    font-family: 'Michroma';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+    text-align: center;
+    letter-spacing: 0.04em;
+    color: #FFFFFF;
+}
