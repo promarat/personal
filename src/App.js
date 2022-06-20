@@ -28,7 +28,7 @@ function App() {
 
   const [email, setEmail] = useState('');
   const [error, setError] = useState(false);
-  const [isContactMeScreen, setIsContactMeScreen] = useState(true);
+  const [isContactMeScreen, setIsContactMeScreen] = useState(false);
 
   const openModal = () => {
     setIsContactMeScreen(true);
